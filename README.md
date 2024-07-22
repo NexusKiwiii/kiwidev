@@ -6,6 +6,8 @@ A python script to get the Discord Active Developer Badge as easy as possible.
 ## Usage
 
 You need Python installed: https://www.python.org/downloads/
+
+
 Use\
 ```pip install -r requirements.txt```\
 to install the requirements.
