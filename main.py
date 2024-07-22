@@ -96,7 +96,7 @@ def getToken():
             open(tFileName, 'w').write('')
 
     while True:
-        print(f"{spacing}[-] When you have to create a new bot click \033]8;;https://discord.dev\033\\here\033]8;;\033\\ (Ctrl + Click)")
+        print(f"{spacing}[-] When you have to create a new bot click \033]8;;https://discord.com/developers/applications\033\\here\033]8;;\033\\ (Ctrl + Click)")
         tIn = cIn('Enter bot token')
         valid, name, bId = validateToken(tIn)
         if valid:
