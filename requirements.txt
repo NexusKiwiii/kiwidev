@@ -1,6 +1,3 @@
 requests
-os
 asyncio
-json
-websockets
-base64
+websocket-client
