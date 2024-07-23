@@ -12,7 +12,7 @@ Use\
 ```pip install -r requirements.txt```\
 or run the `installRequirements.bat` to install the requirements.
 
-Run the scipt and follow the steps or a soon comming YouTube tutorial.
+Run the script and follow the steps or a soon comming YouTube tutorial.
 
 
 
